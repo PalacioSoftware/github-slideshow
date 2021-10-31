@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>Force is far more expensive than persuasion.
 Use the left arrow to go back!
